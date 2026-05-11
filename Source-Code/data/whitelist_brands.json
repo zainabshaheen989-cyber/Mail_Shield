@@ -1,0 +1,19 @@
+{
+  "trusted_brands": [
+    "amazon",
+    "google",
+    "microsoft",
+    "netflix",
+    "apple",
+    "paypal",
+    "ebay",
+    "facebook",
+    "instagram",
+    "twitter",
+    "linkedin",
+    "spotify",
+    "uber",
+    "airbnb",
+    "dropbox"
+  ]
+}
