@@ -46,7 +46,7 @@ The project aims to improve email security and protect users from phishing attac
 
 ---
 
-# 🔹 Features
+# ✨ Features
 
 ✅ Real-Time Email Analysis  
 ✅ Spam vs Ham Classification  
@@ -114,7 +114,7 @@ Email Input
 └──────────────────────┘
 ```
 
-#  Multi-Layered Defense Algorithm
+# 🔐 Multi-Layered Defense Algorithm
 
 The system works using multiple intelligent layers:
 
